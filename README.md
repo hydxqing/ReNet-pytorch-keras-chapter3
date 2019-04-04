@@ -1,7 +1,7 @@
 # ReNet-pytorch-keras-chapter3
 
-The chapter3 of the segmentation network summary: 
-### Combine other mature structures with segmentation networks.
+#### The chapter3 of the segmentation network summary: 
+   ### Combine other mature structures with segmentation networks.
 
 External links: ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks [paper](https://arxiv.org/pdf/1505.00393.pdf).
 Combining the Best of Convolutional Layers and Recurrent Layers: A Hybrid Network for Semantic Segmentation [paper](https://arxiv.org/pdf/1603.04871.pdf).
